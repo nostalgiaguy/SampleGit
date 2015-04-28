@@ -1,4 +1,4 @@
-package com.nostalgiaguy.coreconcept;
+package com.nostalgiaguy.coreconceptpage1;
 
 /*
  * static method and non static method cannot have static variable. 
