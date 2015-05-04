@@ -1,3 +1,4 @@
+//***************************************************Initialize constructor with composition***************************
 package com.nostalgiaguy.coreconceptpage4;
 
 class A1{
