@@ -7,12 +7,12 @@
 package com.nostalgiaguy.fiveproblems;
 
 public class Problem_3 {
-	
+
 	public static long fibonacci(int n){
 		long n1=1;
 		long n2=1;
 		long current=2;
-		
+
 		for(int i=3;i<=n;i++){
 			current=n1 + n2;
 			System.out.println(current);
@@ -21,8 +21,8 @@ public class Problem_3 {
 		}
 		return current;
 	}
-	
-public static void main(String[] args) {
-	System.out.println("fibonacci(100)=" + fibonacci(100));
-}
+
+	public static void main(String[] args) {
+		System.out.println("fibonacci(100)=" + fibonacci(100));
+	}
 }

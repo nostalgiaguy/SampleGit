@@ -24,6 +24,7 @@ public class JaxBExampleAdapter
         {
 
             /* init very simple data to marshal */
+        	
             Country country = new Country();
             country.setName( "Spain" );
             country.setCapital( "Madrid" );
